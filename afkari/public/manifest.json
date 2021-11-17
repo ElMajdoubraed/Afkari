@@ -1,0 +1,41 @@
+{
+  "short_name": "Afkari",
+  "name": "Save your ideas",
+  "icons": [
+    {
+      "src": "logo16.png",
+      "type": "image/png",
+      "sizes": "16*16"
+    },
+    {
+      "src": "logo24.png",
+      "type": "image/png",
+      "sizes": "24*24"
+    },
+    {
+      "src": "logo32.png",
+      "type": "image/png",
+      "sizes": "32*32"
+    },
+    {
+      "src": "logo64.png",
+      "type": "image/png",
+      "sizes": "64*64"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "theme_color": "#33cc99",
+  "background_color": "#33cc99",
+  "orientation":"portrait"
+}
